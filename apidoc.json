@@ -1,0 +1,7 @@
+{
+	"name": "SMS Microservice",
+  	"version": "0.3.0",
+  	"description": "apiDoc example project",
+  	"title": "Custom apiDoc browser title",
+  	"url" : "api/"
+}
